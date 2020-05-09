@@ -1,0 +1,253 @@
+﻿[
+
+  {
+    "ProductName": "A3 Sedan",
+    "GraphicName": "Picture",
+    "CostPrice": "19000",
+    "MSRP": "34500",
+    "QntOnHand": "5000",
+    "QntOnBackOrder": "1000",
+    "ITEM": "From the sleek lines to the flared wheel arches, the A3 takes sporting sedan to a whole new level. The interior of the A3 is a whole new world. The minimalist design is constructed with beautifully textured materials and is full of thoughtful design details. Standard leather seating surfaces, available in three colours, deliver that personal touch.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "A4 Sedan",
+    "GraphicName": "Picture",
+    "CostPrice": "24900",
+    "MSRP": "46200",
+    "QntOnHand": "2000",
+    "QntOnBackOrder": "5000",
+    "ITEM": "The benchmark just got better. With inspiration from the past and technology from the future, the Audi A4 defines what a sport sedan should be. The sharp lines and defined curves of the A4 Sedan are beautifully highlighted by powerful wheel arches and intricate details.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "S4 Coupe",
+    "GraphicName": "Picture",
+    "CostPrice": "34900",
+    "MSRP": "60400",
+    "QntOnHand": "1000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The S4 sets a new standard for the sport sedan class. Legendary quattro all-wheel drive and a turbocharged V6 engine hide underneath beautifully sculpted body lines. The S4 is the performance sedan that’s ahead of the pack.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "A5 Sportback",
+    "GraphicName": "Picture",
+    "CostPrice": "27900",
+    "MSRP": "50900",
+    "QntOnHand": "1500",
+    "QntOnBackOrder": "2",
+    "ITEM": "Pairing the sleek design of a coupé with the enhanced functionality of an avant, the new Audi A5 Sportback has it all, and is sure to get you noticed. Starting with the large, wide Singleframe grille and the focused stare of the headlines, lines flow along the body to craft the beautiful shape of the A5 Sportback.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "S8 Sedan",
+    "GraphicName": "Picture",
+    "CostPrice": "53900",
+    "MSRP": "151600",
+    "QntOnHand": "55",
+    "QntOnBackOrder": "0",
+    "ITEM": "Work hard, drive hard in the all-new Audi S8. Delivering the luxury of a private jet, with the thrust to match, the S8 delivers business and pleasure in equal measure. The ultimate professional. The S8 takes the elegant presence of the A8 and adds a discreet dose of muscle by adding the traditional S cues.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "Escape",
+    "GraphicName": "Picture",
+    "CostPrice": "14999",
+    "MSRP": "28549",
+    "QntOnHand": "9000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The new 2020 Escape has a choice of a Hybrid, Plug-in Hybrid* and EcoBoost engines with Auto Start-Stop technology, including a 1.5L EcoBoost® Engine and the 2.0L EcoBoost® Engine. The Plug-In Hybrid Escape features a 2.5L iVCT Atkinson-cycle hybrid engine, and a 14.4 kWh battery.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Flex",
+    "GraphicName": "Picture",
+    "CostPrice": "20999",
+    "MSRP": "32649",
+    "QntOnHand": "5000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 3.5L EcoBoost® has a Government of Canada-estimated rating of 15.7L/100 km (18 mpg) city, 11.2L/100 km (25 mpg) hwy, and 13.7L/100 km (21 mpg) combined AWD. It generates 365 horsepower and 350 lb.-ft. of torque across a wide 1,500-5,500 rpm range.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Edge",
+    "GraphicName": "Picture",
+    "CostPrice": "25999",
+    "MSRP": "36299",
+    "QntOnHand": "4000",
+    "QntOnBackOrder": "0",
+    "ITEM": "You'll see the attention to detail everywhere you look inside the 2020 Edge. The unique ST interior shows off thrilling style with Leather-Trimmed Seats featuring Perforated Miko™ 87  Suede Inserts.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "F-150",
+    "GraphicName": "Picture",
+    "CostPrice": "15999",
+    "MSRP": "26339",
+    "QntOnHand": "10000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The Ford F-150 features a high-strength, military-grade, aluminum-alloy body and high-strength steel frame providing the foundation for a best-in-class payload rating*. The Ford F-150 makes tough tasks look easy, whether you’re on the job or out on a weekend getaway.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Ranger",
+    "GraphicName": "Picture",
+    "CostPrice": "29999",
+    "MSRP": "32159",
+    "QntOnHand": "5000",
+    "QntOnBackOrder": "0",
+    "ITEM": "You carry gear – and lots of it. That’s why the 2020 Ranger delivers maximum 1,650-lb. payload and an impressive 7,500-lb. available towing. * We made it strong, powerful, and tough enough to help move you out confidently on your next adventure.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Tiguan",
+    "GraphicName": "Picture",
+    "CostPrice": "19999",
+    "MSRP": "29770",
+    "QntOnHand": "4999",
+    "QntOnBackOrder": "2",
+    "ITEM": "The 4MOTION All-Wheel Drive system instantly redirects power to the wheels that need it most, which helps keep you confident and in control behind the wheel. 4MOTION® is made for Canadian roads.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Golf-R",
+    "GraphicName": "Picture",
+    "CostPrice": "29900",
+    "MSRP": "42495",
+    "QntOnHand": "5400",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 2.0 TSI engine pumps out 288 HP – power previously unimaginable from such a small engine. An optional seven-speed dual clutch moves swiftly and seamlessly between gears with zero loss of torque. ",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Jetta",
+    "GraphicName": "Picture",
+    "CostPrice": "14900",
+    "MSRP": "21245",
+    "QntOnHand": "10000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The Jetta’s available Rail 2 Rail power sunroof spans from roof to windshield and, of course, rail to rail. Here comes the sun! Colour is scientifically proven to affect your mood. With ambient interior lighting in the 2020 Jetta.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Passat",
+    "GraphicName": "Picture",
+    "CostPrice": "20145",
+    "MSRP": "27145",
+    "QntOnHand": "1000",
+    "QntOnBackOrder": "0",
+    "ITEM": "Passat takes creature comforts seriously. Heated front and available heated rear outboard seats provide a cozier winter driving experience, so you can be kind to every behind.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Beetle",
+    "GraphicName": "Picture",
+    "CostPrice": "19000",
+    "MSRP": "24475",
+    "QntOnHand": "100",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 2019 Volkswagen Beetle is one of the most loved compact cars around the world. It will end production of its venerable Beetle in 2019 after three generations that included the original rear-engine, rear-drive air-cooled model and two successive iterations of the front-drive liquid-cooled New Beetle.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Altima",
+    "GraphicName": "Picture",
+    "CostPrice": "19000",
+    "MSRP": "28098",
+    "QntOnHand": "20000",
+    "QntOnBackOrder": "0",
+    "ITEM": "Amplify every moment in a sedan so advanced, you’ll feel like you’re driving the future. Appreciate a confident ride no matter the road conditions – Altima® is Nissan’s first sedan with a standard Intelligent All-Wheel Drive system.",
+    "Brand": "Nissan"
+  },
+  {
+    "ProductName": "Micra",
+    "GraphicName": "Picture",
+    "CostPrice": "8000",
+    "MSRP": "10488",
+    "QntOnHand": "15000",
+    "QntOnBackOrder": "0",
+    "ITEM": "Nissan Micra® is designed for your everyday life, with outstanding quality, agility and maneuverability that makes it extraordinarily fun to drive.",
+    "Brand": "Nissan"
+  },
+  {
+    "ProductName": "370-Z",
+    "GraphicName": "Picture",
+    "CostPrice": "25999",
+    "MSRP": "30498",
+    "QntOnHand": "1000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 2020 370Z® is packed with performance: 332 horsepower, 14 disc brakes, paddle shifters, and a perfect 54/46 weight distribution. We’ve been refining the 370Z® for more than 40 years. Enjoy the results. ",
+    "Brand": "Nissan"
+  },
+  {
+    "ProductName": "GT-R",
+    "GraphicName": "Picture",
+    "CostPrice": "99999",
+    "MSRP": "129998",
+    "QntOnHand": "2000",
+    "QntOnBackOrder": "0",
+    "ITEM": "From start to finish, each GT-R® engine is handcrafted by its own master engine-builder in a climate-controlled clean room. Each twin-turbo V6 is precisely assembled from lightweight, highly durable aluminum and magnesium parts. It takes the exacting standards of the plant's most talented",
+    "Brand": "Nissan"
+  },
+  {
+    "ProductName": "Maxima",
+    "GraphicName": "Picture",
+    "CostPrice": "39999",
+    "MSRP": "41140",
+    "QntOnHand": "1400",
+    "QntOnBackOrder": "0",
+    "ITEM": "Under the Maxima’s hood beats the heart of the Nissan’s legendary VQ V6 engine. From its microfinished forged crankshaft to its high-flow, tuned induction system, this 300-hp powerhouse is designed to exhilarate from idle to redline.",
+    "Brand": "Nissan"
+  },
+  {
+    "ProductName": "Q50",
+    "GraphicName": "Picture",
+    "CostPrice": "43995",
+    "MSRP": "49995",
+    "QntOnHand": "1500",
+    "QntOnBackOrder": "2",
+    "ITEM": "Aggressive yet refined, the INFINITI Q50 takes your performance to a whole new level. Tap into relentless power. Carve through corners with effortless precision. When you grip the wheel, you’ll feel empowered to go beyond.",
+    "Brand": "Infiniti"
+  },
+  {
+    "ProductName": "Q70",
+    "GraphicName": "Picture",
+    "CostPrice": "55120",
+    "MSRP": "67120",
+    "QntOnHand": "1235",
+    "QntOnBackOrder": "6",
+    "ITEM": "Embark on a ride that is as confident and composed as it is bound to turn heads. The Q70 draws you in with sweeping contours and powerful proportions. Its muscular front fenders ascend into the hood, exuding a sense of unwavering command. Add to that every detail of Q70’s elegant double-arch grille and you have an exterior that’s crafted to captivate.",
+    "Brand": "Infiniti"
+  },
+  {
+    "ProductName": "Q60",
+    "GraphicName": "Picture",
+    "CostPrice": "43795",
+    "MSRP": "53795",
+    "QntOnHand": "4212",
+    "QntOnBackOrder": "0",
+    "ITEM": "Powered by the twin-turbo V6 engine, the Q60 delivers up to 400 horsepower and 295-lbs of torque. So, you can count on an excellent performance. When the road conditions are less than ideal, the Q60’s Intelligent All-Wheel Drive distributes power to each wheel – giving you complete control.",
+    "Brand": "Infiniti"
+  },
+  {
+    "ProductName": "QX50",
+    "GraphicName": "Picture",
+    "CostPrice": "34998",
+    "MSRP": "44998",
+    "QntOnHand": "3000",
+    "QntOnBackOrder": "0",
+    "ITEM": "Embrace the road ahead in the QX50. From its bold looks to its spacious interior, every luxurious detail is crafted to bring out your drive. Equipped with the latest technology, your digital world is never far from reach. And when you need it, advanced safety features give you total command, while a groundbreaking engine delivers superior power and efficiency.",
+    "Brand": "Infiniti"
+  },
+  {
+    "ProductName": "QX80",
+    "GraphicName": "Picture",
+    "CostPrice": "69998",
+    "MSRP": "79998",
+    "QntOnHand": "2500",
+    "QntOnBackOrder": "4",
+    "ITEM": "Share luxury with all who ride. The QX80 makes first-class travel part of every journey. With breathtaking performance, advanced technology, and luxurious details from front to back, every seat is one of power.",
+    "Brand": "Infiniti"
+  }
+]
