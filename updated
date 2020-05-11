@@ -1,0 +1,153 @@
+[
+
+  {
+    "ProductName": "A3 Sedan",
+    "GraphicName": "a3sedan.jpg",
+    "CostPrice": "19000",
+    "MSRP": "34500",
+    "QntOnHand": "5000",
+    "QntOnBackOrder": "1000",
+    "ITEM": "From the sleek lines to the flared wheel arches, the A3 takes sporting sedan to a whole new level. The interior of the A3 is a whole new world. The minimalist design is constructed with beautifully textured materials and is full of thoughtful design details. Standard leather seating surfaces, available in three colours, deliver that personal touch.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "A4 Sedan",
+    "GraphicName": "a4sedan.jpg",
+    "CostPrice": "24900",
+    "MSRP": "46200",
+    "QntOnHand": "2000",
+    "QntOnBackOrder": "5000",
+    "ITEM": "The benchmark just got better. With inspiration from the past and technology from the future, the Audi A4 defines what a sport sedan should be. The sharp lines and defined curves of the A4 Sedan are beautifully highlighted by powerful wheel arches and intricate details.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "S4 Coupe",
+    "GraphicName": "s4coupe.jpg",
+    "CostPrice": "34900",
+    "MSRP": "60400",
+    "QntOnHand": "1000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The S4 sets a new standard for the sport sedan class. Legendary quattro all-wheel drive and a turbocharged V6 engine hide underneath beautifully sculpted body lines. The S4 is the performance sedan that’s ahead of the pack.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "A5 Sportback",
+    "GraphicName": "a5sportback.jpg",
+    "CostPrice": "27900",
+    "MSRP": "50900",
+    "QntOnHand": "1500",
+    "QntOnBackOrder": "2",
+    "ITEM": "Pairing the sleek design of a coupé with the enhanced functionality of an avant, the new Audi A5 Sportback has it all, and is sure to get you noticed. Starting with the large, wide Singleframe grille and the focused stare of the headlines, lines flow along the body to craft the beautiful shape of the A5 Sportback.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "S8 Sedan",
+    "GraphicName": "s8sedan.jpg",
+    "CostPrice": "53900",
+    "MSRP": "151600",
+    "QntOnHand": "55",
+    "QntOnBackOrder": "0",
+    "ITEM": "Work hard, drive hard in the all-new Audi S8. Delivering the luxury of a private jet, with the thrust to match, the S8 delivers business and pleasure in equal measure. The ultimate professional. The S8 takes the elegant presence of the A8 and adds a discreet dose of muscle by adding the traditional S cues.",
+    "Brand": "AUDI"
+  },
+  {
+    "ProductName": "Escape",
+    "GraphicName": "Picture",
+    "CostPrice": "14999",
+    "MSRP": "28549",
+    "QntOnHand": "9000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The new 2020 Escape has a choice of a Hybrid, Plug-in Hybrid* and EcoBoost engines with Auto Start-Stop technology, including a 1.5L EcoBoost® Engine and the 2.0L EcoBoost® Engine. The Plug-In Hybrid Escape features a 2.5L iVCT Atkinson-cycle hybrid engine, and a 14.4 kWh battery.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Flex",
+    "GraphicName": "Picture",
+    "CostPrice": "20999",
+    "MSRP": "32649",
+    "QntOnHand": "5000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 3.5L EcoBoost® has a Government of Canada-estimated rating of 15.7L/100 km (18 mpg) city, 11.2L/100 km (25 mpg) hwy, and 13.7L/100 km (21 mpg) combined AWD. It generates 365 horsepower and 350 lb.-ft. of torque across a wide 1,500-5,500 rpm range.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Edge",
+    "GraphicName": "Picture",
+    "CostPrice": "25999",
+    "MSRP": "36299",
+    "QntOnHand": "4000",
+    "QntOnBackOrder": "0",
+    "ITEM": "You'll see the attention to detail everywhere you look inside the 2020 Edge. The unique ST interior shows off thrilling style with Leather-Trimmed Seats featuring Perforated Miko™ 87  Suede Inserts.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "F-150",
+    "GraphicName": "Picture",
+    "CostPrice": "15999",
+    "MSRP": "26339",
+    "QntOnHand": "10000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The Ford F-150 features a high-strength, military-grade, aluminum-alloy body and high-strength steel frame providing the foundation for a best-in-class payload rating*. The Ford F-150 makes tough tasks look easy, whether you’re on the job or out on a weekend getaway.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Ranger",
+    "GraphicName": "Picture",
+    "CostPrice": "29999",
+    "MSRP": "32159",
+    "QntOnHand": "5000",
+    "QntOnBackOrder": "0",
+    "ITEM": "You carry gear – and lots of it. That’s why the 2020 Ranger delivers maximum 1,650-lb. payload and an impressive 7,500-lb. available towing. * We made it strong, powerful, and tough enough to help move you out confidently on your next adventure.",
+    "Brand": "FORD"
+  },
+  {
+    "ProductName": "Tiguan",
+    "GraphicName": "Picture",
+    "CostPrice": "19999",
+    "MSRP": "29770",
+    "QntOnHand": "4999",
+    "QntOnBackOrder": "2",
+    "ITEM": "The 4MOTION All-Wheel Drive system instantly redirects power to the wheels that need it most, which helps keep you confident and in control behind the wheel. 4MOTION® is made for Canadian roads.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Golf-R",
+    "GraphicName": "Picture",
+    "CostPrice": "29900",
+    "MSRP": "42495",
+    "QntOnHand": "5400",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 2.0 TSI engine pumps out 288 HP – power previously unimaginable from such a small engine. An optional seven-speed dual clutch moves swiftly and seamlessly between gears with zero loss of torque. ",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Jetta",
+    "GraphicName": "Picture",
+    "CostPrice": "14900",
+    "MSRP": "21245",
+    "QntOnHand": "10000",
+    "QntOnBackOrder": "0",
+    "ITEM": "The Jetta’s available Rail 2 Rail power sunroof spans from roof to windshield and, of course, rail to rail. Here comes the sun! Colour is scientifically proven to affect your mood. With ambient interior lighting in the 2020 Jetta.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Passat",
+    "GraphicName": "Picture",
+    "CostPrice": "20145",
+    "MSRP": "27145",
+    "QntOnHand": "1000",
+    "QntOnBackOrder": "0",
+    "ITEM": "Passat takes creature comforts seriously. Heated front and available heated rear outboard seats provide a cozier winter driving experience, so you can be kind to every behind.",
+    "Brand": "Volkswagen"
+  },
+  {
+    "ProductName": "Beetle",
+    "GraphicName": "Picture",
+    "CostPrice": "19000",
+    "MSRP": "24475",
+    "QntOnHand": "100",
+    "QntOnBackOrder": "0",
+    "ITEM": "The 2019 Volkswagen Beetle is one of the most loved compact cars around the world. It will end production of its venerable Beetle in 2019 after three generations that included the original rear-engine, rear-drive air-cooled model and two successive iterations of the front-drive liquid-cooled New Beetle.",
+    "Brand": "Volkswagen"
+  }
+]
